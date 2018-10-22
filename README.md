@@ -1,2 +1,2 @@
-# safari
-It contains details for safari
+# Safari
+It contains details for Safari Extensions
