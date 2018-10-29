@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>OpenText</string>
+	<key>Builder Version</key>
+	<string>13606.2.104</string>
+	<key>CFBundleDisplayName</key>
+	<string>DCMExtension</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.emc.documentum.CTF</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict>
+		<key>Global Page</key>
+		<string>global.html</string>
+	</dict>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>ContentScript.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Assists in content transfer of files in xCP, D2 and Webtop applications</string>
+	<key>DeveloperIdentifier</key>
+	<string>4B9GHJ9X43</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>URL</key>
+	<string>https://raw.github.com/d2user/safari/master/DCMExtension.safariextz</string>
+	<key>Website</key>
+	<string>https://github.com/d2user/safari</string>
+	<key>Update From Gallery</key>
+	<true/>
+</dict>
+</plist>
